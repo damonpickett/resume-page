@@ -40,31 +40,30 @@
         "title": "Applications",
         "apps": [
             {
-                "title": "Portfolio",
-                "link": "https://penajoia.com/",
-                "github": "https://github.com/mpenajoia/portfolio",
+                "title": "Crypto Voting Dapp",
+                "link": "https://damonpickett.github.io/crypto-voting-dapp/",
+                "github": "https://github.com/damonpickett/crypto-voting-dapp",
                 "points": [
-                    "Mobile responsive React app portfolio using TailwindCSS.",
-                    "Local JSON file acts as an API making updating the content as easy as updating one file as opposed to each component."
+                    "A mobile responsive dapplication which tracks voting on the Polygon Mumbai Testnet",
+                    "Built with React.js, Solidity, and Moralis"
                 ]
             },
             {
-                "title": "Resume Builder",
-                "link": "https://penajoia.com/resume",
-                "github": "https://github.com/mpenajoia/resume-page",
+                "title": "HLP Blog",
+                "link": "https://damonpickett.github.io/hlp-blog-frontend/#/",
+                "github": "https://github.com/damonpickett/hlp-blog-frontend",
                 "points": [
-                    "Mobile responsive creative online web version of my professional resume styled using TailwindCSS.",
-                    "React app sourcing all data from a local JSON file, making it extremely useful for other devs to replicate their own deployable version."
+                    "A full-stack application using React.js and Python/Django",
+                    "This blog features blog posts written to help me crystalize programming concepts at a high level"
                 ]
             },
             {
-                "title": "cryptoFOMO",
-                "link": "https://penajoia.com/cryptoFOMO/",
-                "github": "https://github.com/mpenajoia/cryptofomo",
+                "title": "BookListBuilder",
+                "link": "https://damonpickett.github.io/react-booklistbuilder/#/",
+                "github": "https://github.com/damonpickett/react-booklistbuilder",
                 "points": [
-                    "Developed mobile first React financial web application styled with TailwindCSS.",
-                    "Cryptocurrency data, images, and pricing sourced through CoinGecko's public RESTful API.",
-                    "Applied logic based algorithms to calculate gains/losses per user inputted investment amount."
+                    "A React app which utilizes a random quote generator api as well as the Google Books API",
+                    "Allows users to search for books and compile a reading list"
                 ]
             }
         ]
