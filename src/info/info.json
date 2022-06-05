@@ -16,23 +16,23 @@
         "tech": [ 
             { 
                 "type": "Languages",
-                "list": ["Javascript ES6", "Python"] 
+                "list": ["Javascript"," | ", "Solidity", " | ", "Python"] 
             },
             { 
                 "type": "Frameworks | Libraries",
-                "list": ["React", "Node", "Express", "Tailwind", "Bootstrap"] 
+                "list": ["React.js",  " | ",  "Node.js",  " | ",  "Ethers.js",  " | ",  "Bootstrap"] 
             },
             {
                  "type": "Databases | Platforms",
-                 "list": ["MongoDB", "PostgresSQL", "RESTful API's"] 
+                 "list": ["Ethereum",  " | ",  "Moralis",  " | ",  "Polygon",  " | ",  "PostgreSQL"] 
                 },
             {
-                 "type": "Tools | Markdown",
-                 "list": ["Git", "HTML5", "CSS3", "Markup"] 
+                 "type": "Tools",
+                 "list": ["Git", " | ", "HTML5", " | ", "CSS3", " | ", "Markdown", " | ", "Postman"] 
                 },
             {
                  "type": "Misc",
-                 "list": ["Photoshop", "Adobe Suite", "Google Suite", "Zoom"] 
+                 "list": ["Mircorsoft Office", " | ", "Google Suite", " | ", "Zoom", " | ", "Slack"] 
                 }
         ]
     },
