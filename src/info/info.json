@@ -1,16 +1,16 @@
 {
     "social": [
-        { "name": "portfolio", "link": "https://penajoia.com/", "icon": "arrowCircleLeft" },
-        { "name": "linkedin", "link": "https://www.linkedin.com/in/mpenajoia/", "icon": "linkedin" },
-        { "name": "github", "link": "https://github.com/mpenajoia", "icon": "github" }
+        { "name": "portfolio", "link": "https://damonpickett.github.io/portfolio/", "icon": "arrowCircleLeft" },
+        { "name": "linkedin", "link": "https://www.linkedin.com/in/damon-pickett/", "icon": "linkedin" },
+        { "name": "github", "link": "https://github.com/damonpickett", "icon": "github" }
     ],
     "header": {
-        "name": "Marco Silva",
-        "title": "Front-End Engineer",
-        "location": "Los Angeles, CA",
+        "name": "Damon Pickett",
+        "title": "Blockchain Developer",
+        "location": "Nanaimo, BC",
         "image": ""
     },
-    "profile": "Highly analytical and versatile individual with hands-on experience in all facets of software engineering, including design, development, and integration of innovative software solutions. Remarkable efficiency to develop pixel-perfect applications through utilizing responsive design as well as execute full-stack projects with complete CRUD functionality on MERN applications. Proven ability to translate designs into high-quality code, while driving designs to the next level by adding value during implementation. Articulate communicator with innate ability to foster consistent collaboration with front/back-end developers and excel in a forward-thinking, innovative company as a Front End Engineer.",
+    "profile": "Using React.js and Solidity, I specialize in building user interfaces that interact with smart contracts. As a Blockchain Developer I am helping to build a world in which opportunity transcends national and institutional borders. I want to make it easy and secure for people all over the world to transact, acquire assets, and prosper. I bring over a decade’s worth of experience in effective communication having worked in various customer service roles, including management.",
     "tech": {
         "title": "Tech Stack",
         "tech": [ 
